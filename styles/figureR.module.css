@@ -1,0 +1,5 @@
+.img {
+    width: max-width;
+    height: 1em;
+    transform: scaleY(-1);
+}

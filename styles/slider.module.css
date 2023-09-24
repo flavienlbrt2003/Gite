@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.img {
+    width: auto;
+    height: 20em;
+    box-shadow: 0 0 2em black;
+}
+
+.imgcontainer {
+    display: flex;
+    justify-content: center;
+    width: 30em;
+}
+
+.d-block-w-100 {
+    width: 1200px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.buttonR {
+    margin-left: 3em;
+    position: static;
+    color: #6f9e23;
+
+}
+
+.buttonL {
+    margin-right: 3em;
+    position: static;
+    color: #6f9e23;
+    border-color: #6f9e23;
+}
+
+.arrows {
+    color: #27aae1;
+}

@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(39, 39, 39);
+}
+
+.container {
+    margin-left: 4em;
+    padding-top: 2em;
+    padding-bottom: 3em;
+    background-color: rgb(39, 39, 39);
+
+}
+
+.text {
+    color: white;
+    background-color: rgb(39, 39, 39);
+    margin: 0px 0px 0px 0px;
+}

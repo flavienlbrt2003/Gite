@@ -1,0 +1,45 @@
+.body {
+    background-color: #c48062;
+    text-align: center;
+}
+
+.intro {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 2em;
+    background-color: #c48062;
+}
+
+.pintro {
+    background-color: transparent;
+    display: flex;
+    color: rgb(102, 102, 102);
+    text-align: center;
+    align-items: center;
+}
+
+.p {
+    color: rgb(219, 219, 219);
+    background-color: transparent;
+}
+
+
+/* p:first-child {
+    text-decoration: italic;
+} */
+
+.imgReserv {
+    background-color: transparent;
+    width: 10em;
+    height: 10em;
+    color: rgb(176, 121, 54);
+    background-color: #c48062;
+    border-radius: 50%;
+    box-shadow: 0 0 2em black;
+}
+
+.h2 {
+    color: rgb(102, 102, 102);
+}
