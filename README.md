@@ -49,6 +49,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - III. Dans le dossier /gite, éxécuter ces commandes : `npm install` puis `npm install react react-dom next`  
 
 - IV. Enfin, tout est prêt, plus qu'à lancer le serveur en local, avec la commande `npm run dev` et suivre le lien donné  
-  > (localhost:****)
+  > \(localhost:****)
 
 
