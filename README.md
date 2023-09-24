@@ -50,4 +50,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - 4. Enfin, tout est prêt, plus qu'à lancer le serveur en local, avec la commande `npm run dev` et suivre le lien donné
      (localhost:****)
-   
+
+
+>Ceci est une **zone en retrait**.
+>La zone continue ici
+
+>Ceci est une autre **zone de retrait**.
+Cette zone continue également dans la ligne suivante.
+Cependan, cette ligne n’est plus en retrait
+
