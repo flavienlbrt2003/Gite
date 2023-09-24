@@ -40,10 +40,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
      En passant par l'invite de commande ou avec l'interface de GitHub Desktop.
      Lien pour cloner : https://github.com/flavienlbrt2003/gite.git
 
-2.1 Installer Node.js (si ce n'est pas déjà installer sur votre ordinateur)
+2.1. Installer Node.js (si ce n'est pas déjà installer sur votre ordinateur)
      (version recommandé : 18.18.0)
      
-2.2 Exécuter cette commande : `SET PATH=C:\Program Files\Nodejs;%PATH%`
+2.2. Exécuter cette commande : `SET PATH=C:\Program Files\Nodejs;%PATH%`
      Cela va permettre d'ajouter Node.js au PATH afin de pouvoir utiliser la commande `npm` par la suite.
 
 3. Dans le dossier /gite, éxécuter ces commandes : `npm install` puis `npm install react react-dom next`
