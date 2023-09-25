@@ -10,7 +10,7 @@
 - II.b Exécuter cette commande : `SET PATH=C:\Program Files\Nodejs;%PATH%`  
   > Cela va permettre d'ajouter Node.js au PATH afin de pouvoir utiliser la commande `npm` par la suite.  
 
-- III. Dans le dossier /gite, éxécuter ces commandes : `npm install` puis `npm install react react-dom next`  
+- III. Dans le dossier /gite, éxécuter ces commandes : `npm install`  puis  `npm install react react-dom next`  
 
 - IV. Enfin, tout est prêt, plus qu'à lancer le serveur en local, avec la commande `npm run dev` et suivre le lien local  
 
