@@ -9,7 +9,7 @@ const Body = () => {
                         <p>
                             Bienvenu sur Gîte NC ! Réservez dès maintenant !<br></br>
                             <br></br>
-                            Nos chambres sont composées de 2 chambres à coucher et une salle d'eau, afin d'accueillir 2 adultes et un enfant. <br></br>
+                            Nos chambres sont composées de 2 chambres à coucher et une salle d&aposeau, afin d&aposaccueillir 2 adultes et un enfant. <br></br>
                             Il y a à votre disposition une salle à manger et une cuisine de quoi reveiller votre âme de cuistot. <br></br>
                             Le wifi, eau chaude, climatiseur et TV sont sompris dans la réservation.<br></br>
                             Nous disposons de 3 Gîtes. Tous aussi agréables les uns que les autres. Les gîtes sont fermé le lundi.

@@ -27,7 +27,7 @@ function GuestInput({ nbAdulte, nbEnfant, setnbAdulte, setnbEnfant }) {
                 />
             </div>
             <div className={styles.guestInput}>
-                <label className={styles.label}>Enfants (jusqu'à 11 ans):</label>
+                <label className={styles.label}>Enfants (jusqu&aposà 11 ans):</label>
                 <input
                     type="number"
                     value={nbEnfant}

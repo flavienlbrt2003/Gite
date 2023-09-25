@@ -37,7 +37,7 @@ function Reserve({ arrivalDate, departureDate, nbAdulte, nbEnfant }) {
                     <div onClick={toggleModal} className={styles.overlay}></div>
                     <div className={styles.modalContent}>
                         <h2 className={styles.message}>
-                            Votre réservation du {arrivalDate} au {departureDate} a bien été prise en compte ! Le règlement des chambres se fera au près de l'accueil à l'arrivée.
+                            Votre réservation du {arrivalDate} au {departureDate} a bien été prise en compte ! Le règlement des chambres se fera au près de l&aposaccueil&aposà l&aposarrivée.
                         </h2>
                         <Button variant="danger" onClick={toggleModal} className={styles.button}>Fermer</Button>
                     </div>

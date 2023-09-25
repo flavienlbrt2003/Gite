@@ -16,7 +16,7 @@ function DateInput({ arrivalDate, departureDate, setArrivalDate, setDepartureDat
     return (
         <div className={styles.dateInputContainer}>
             <div className={styles.dateInput}>
-                <label className={styles.label}>Date d'arrivée :</label>
+                <label className={styles.label}>Date d&aposarrivée :</label>
                 <input
                     type="date"
                     value={arrivalDate}
