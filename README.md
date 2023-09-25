@@ -4,7 +4,7 @@
   > En passant par l'invite de commande ou avec l'interface de GitHub Desktop.  
   > Lien pour cloner : https://github.com/flavienlbrt2003/gite.git  
 
-- II.a Installer Node.js (si ce n'est pas déjà installer sur votre ordinateur)  
+- II.a Installer Node.js (si ce n'est pas déjà installé sur votre ordinateur)  
   > (version recommandé : 18.18.0)  
      
 - II.b Exécuter cette commande : `SET PATH=C:\Program Files\Nodejs;%PATH%`  
