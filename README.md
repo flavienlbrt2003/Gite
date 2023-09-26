@@ -28,5 +28,7 @@ J'ai rencontré quelques soucis plus ou moins simple à résoudres. Ma plus gros
 
 J'ai passé beaucoup de temps à essayer de mettre en ligne le rendu final, mais en vain. Je n'ai jamais réelement hébergé un site web, c'est pourquoi j'ai voulu le faire pour celui-ci. Malheureusement, je n'ai pas encore réussis à résoudre tout les soucis qui en découle. En voyant que cela me prenais beaucoup trop de temps, j'ai décidé de vous rendre le projet tel quel. Je vais continuer à persisté.
 
+### Conclusion
+
 Ce projet m'a demandé un totale d'environs 12 à 14 heures de travaille (sans prendre en compte le temps passé sur l'hébergement, sois environs 6 à 8 heures). La plupart de ces heures de travailles ont été consacrés au développement des différents composants. Le CSS de chacun à été beaucoup plus rapide à coder. 
 > Si je devais donner une estimation de mon temps de travaille si je devais recommencer un projet avec les même techno, je pense avoir besoin de 6 à 8 heures pour le même rendu.
