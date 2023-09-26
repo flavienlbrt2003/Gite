@@ -19,7 +19,7 @@
 
 Pour ce projet, j'ai pris la décision d'utiliser le framework React.js avec Next.js car c'est une techno que j'ai déjà eu l'occasion d'utiliser. Cela m'a permis de gagner du temps comparé à d'autres langages.
 
-J'ai tout de même appris beaucoup de choses. Notamenent sur le langage, son fonctionnement etc. 
+> J'ai tout de même appris beaucoup de choses. Notamenent sur le langage, son fonctionnement etc. 
 
 ### Probèmes rencontrés
 
