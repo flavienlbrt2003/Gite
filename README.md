@@ -5,7 +5,7 @@
   > Lien pour cloner : https://github.com/flavienlbrt2003/gite.git  
 
 - II.a Installer Node.js (si ce n'est pas déjà installé sur votre ordinateur)  
-  > (version recommandé : 18.18.0)  
+  > (version recommandé : v18.18.0)  
      
 - II.b Exécuter cette commande : `SET PATH=C:\Program Files\Nodejs;%PATH%`  
   > Cela va permettre d'ajouter Node.js au PATH afin de pouvoir utiliser la commande `npm` par la suite.  
